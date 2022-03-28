@@ -38,7 +38,7 @@ PT-3	|	Activated_BASU-PLK1|
 | Tables       | Downloads            | Description|
 --------       |  --------------------|------------|
 Supplementary_Table_1Table 1.xlsx |[[XLSX](Figures_Tables/Supplementary_Table_1.xlsx)]|Raw data and processed data for Figures.|
-Supplementary_Table_2.xlsx |[[XLSX](Figures_Tables/Supplementary_Table _.xlsx)]|Gene ontology analysis results.|
+Supplementary_Table_2.xlsx |[[XLSX](Figures_Tables/Supplementary_Table_2.xlsx)]|Gene ontology analysis results.|
 
 ## Analysis R code is avaialble
 
