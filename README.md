@@ -37,12 +37,12 @@ PT-3	|	Activated_BASU-PLK1|
 
 | Tables       | Downloads            | Description|
 --------       |  --------------------|------------|
-Supplementary Table 1.xlsx |[[XLSX](Figures_Tables/Supplementary Table 1.xlsx)]|Raw data and processed data for Figures.|
-Supplementary Table 2.xlsx |[[XLSX](Figures_Tables/Supplementary Table 2.xlsx)]|Gene ontology analysis results.|
+Supplementary_Table_1Table 1.xlsx |[[XLSX](Figures_Tables/Supplementary_Table_1.xlsx)]|Raw data and processed data for Figures.|
+Supplementary_Table_2.xlsx |[[XLSX](Figures_Tables/Supplementary_Table _.xlsx)]|Gene ontology analysis results.|
 
 ## Analysis R code is avaialble
 
-CAD_xl305_0001-PTvsPUT_withBASU_23_Dec_2021.R [[Rscript] CAD_xl305_0001-PTvsPUT_withBASU_23_Dec_2021.R]
+**CAD_xl305_0001-PTvsPUT_withBASU_23_Dec_2021.R**
 
 ## Methods
 
@@ -64,12 +64,12 @@ Firstly, normalization and batch correction was applied for all samples using R 
 
 | Figures       | Downloads            |Image         | Legend (Corresponding Fig)|
 --------        |  --------------------|--------------| ------------------------  |
-Fig3e_Mar_2022.pdf | [[PDF](Figures_Tables/Fig3e_Mar_2022.pdf)]|<IMG SRC="Figures_Tables/Fig3e_Mar_2022.png" width=300px> | Volcano plot for interactome with PLK1 after NLRP3 inflammsome activation (activated), compared to the interactome with PLK1 under primed condition (primed). Red dots represent the enhanced protein interaction in the Activated group, blue dots represent the enhanced protein interaction in the Primed group, and grey dots are non-significant with the selected threshold cut-off (the cut-off threshold for log2FoldChange is 0.4, equal to complete 1.3 fold change; the significance adjusted P value is less than 0.05, by Benjamini-Hochberg correction).  |
-Fig3f_Mar_2022.pdf | [[PDF](Figures_Tables/Fig3f_Mar_2022.pdf)]|<IMG SRC="Figures_Tables/Fig3f_Mar_2022.png" width=300px> | Gene Ontology analysis shows the up (red)/down (blue) -regulated interacting proteins with PLK1 after NLRP3 inflammasome activation in protein subgroups with corresponding numbers.  |
-SFig5b_Mar_2022.pdf | [[PDF](Figures_Tables/SFig5b__Mar_2022.pdf)]|<IMG SRC="Figures_Tables/SFig5b__Mar_2022.png" width=300px> | The interactome was analyzed under primed condition (primed), or after NLRP3 inflammasome activation (activated). PCA (Principal Components Analysis) shows the grouped replicates under each condition (BASU only under Primed or Activated condition; BASU-PLK1 under Primed or Activated condition).  |
-SFig5c_Mar_2022.pdf | [[PDF](Figures_Tables/SFig5c__Mar_2022.pdf)]|<IMG SRC="Figures_Tables/SFig5c__Mar_2022.png" width=300px> | Boxplot of normalized intensities of interacting proteins with PLK1 under primed condition or activated condition upon normalization using central median plus PLK1. |
-SFig5d_Mar_2022.pdf | [[PDF](Figures_Tables/SFig5d__Mar_2022.pdf)]|<IMG SRC="Figures_Tables/SFig5d__Mar_2022.png" width=300px> | Density plot shows intensity shift of interacting proteins with PLK1 under primed or activated condition at four subcellular cytoskeletal localization. Paired t-test for each location group is performed.  |
-SFig5e_Mar_2022.pdf | [[PDF](Figures_Tables/SFig5e__Mar_2022.pdf)]|<IMG SRC="Figures_Tables/SFig5e__Mar_2022.png" width=300px> | Heatmap plot shows the up (red shades) /down (blue shades)-regulated interacting proteins with PLK1 in microtubule-related pathways after NLRP3 inflammasome activation.  |
+Fig3e_Mar_2022.pdf | [[PDF](Figures_Tables/Fig3e_Mar_2022.pdf)]|<IMG SRC="Figures_Tables/Fig3e_Mar_2022.png" width=300px> | Volcano plot for interactome with PLK1 after NLRP3 inflammsome activation (activated), compared to the interactome with PLK1 under primed condition (primed). Red dots represent the enhanced protein interaction in the Activated group, blue dots represent the enhanced protein interaction in the Primed group, and grey dots are non-significant with the selected threshold cut-off (the cut-off threshold for log2FoldChange is 0.4, equal to complete 1.3 fold change; the significance adjusted P value is less than 0.05, by Benjamini-Hochberg correction).|
+Fig3f_Mar_2022.pdf | [[PDF](Figures_Tables/Fig3f_Mar_2022.pdf)]|<IMG SRC="Figures_Tables/Fig3f_Mar_2022.png" width=300px> | Gene Ontology analysis shows the up (red)/down (blue) -regulated interacting proteins with PLK1 after NLRP3 inflammasome activation in protein subgroups with corresponding numbers.|
+SFig5b_Mar_2022.pdf | [[PDF](Figures_Tables/SFig5b_Mar_2022.pdf)]|<IMG SRC="Figures_Tables/SFig5b_Mar_2022.png" width=300px> | The interactome was analyzed under primed condition (primed), or after NLRP3 inflammasome activation (activated). PCA (Principal Components Analysis) shows the grouped replicates under each condition (BASU only under Primed or Activated condition; BASU-PLK1 under Primed or Activated condition). |
+SFig5c_Mar_2022.pdf | [[PDF](Figures_Tables/SFig5c_Mar_2022.pdf)]|<IMG SRC="Figures_Tables/SFig5c_Mar_2022.png" width=300px> | Boxplot of normalized intensities of interacting proteins with PLK1 under primed condition or activated condition upon normalization using central median plus PLK1. |
+SFig5d_Mar_2022.pdf | [[PDF](Figures_Tables/SFig5d_Mar_2022.pdf)]|<IMG SRC="Figures_Tables/SFig5d_Mar_2022.png" width=300px> | Density plot shows intensity shift of interacting proteins with PLK1 under primed or activated condition at four subcellular cytoskeletal localization. Paired t-test for each location group is performed.  |
+SFig5e_Mar_2022.pdf | [[PDF](Figures_Tables/SFig5e_Mar_2022.pdf)]|<IMG SRC="Figures_Tables/SFig5e_Mar_2022.png" width=300px> | Heatmap plot shows the up (red shades) /down (blue shades)-regulated interacting proteins with PLK1 in microtubule-related pathways after NLRP3 inflammasome activation.  |
 
 
 ## Software R Versions and other packages
