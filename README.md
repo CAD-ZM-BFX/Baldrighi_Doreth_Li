@@ -1,22 +1,37 @@
 # PLK1 promotes NLRP3 inflammasome activation through reinforcing microtubule organizing center
-Marta Baldrighi<sup>1\# </sup>, Christian Doreth<sup>1\# </sup>, Xiaohui Zhao<sup>1 </sup>, Hannah Chenoweth<sup>1 </sup>, Kamal Kishore<sup>2 </sup>, Yagnesh Umrania<sup>3 </sup>, David-Paul Minde<sup>3 </sup>, Emily Warner<sup>1 </sup>, Sarah Thome<sup>1 </sup>, Alice Knapton<sup>1 </sup>, James Harrison<sup>1 </sup>, Murray Clarke<sup>1 </sup>, Eicke Latz<sup>4 </sup>, Guillermo de Carcer<sup>5,6 </sup>, Marcos Malumbres<sup>5 </sup>, Bernhard Ryffel<sup>7 </sup>, Clare Bryant<sup>8 </sup>, Kathryn Lilley<sup>3 </sup>, Ziad Mallat<sup>1,9 </sup>, Xuan Li<sup>1\* </sup> <br>
-<sup>1</sup>	Department of Medicine, University of Cambridge, Addenbrookes Hospital, Cambridge, UK.<br>
-<sup>2</sup>	Cancer Research UK Cambridge Centre, University of Cambridge, Cambridge, UK.<br>
-<sup>3</sup>	Department of Biochemistry, Cambridge Centre for Proteomics, University of Cambridge, Cambridge, UK. <br>
-<sup>4</sup>	Institute of Innate Immunity, University Hospital, University of Bonn, Bonn, Germany.<br>
-<sup>5</sup>	Cell Division and Cancer Group, Spanish National Cancer Research Centre (CNIO), Melchor Fernández Almagro 3, E-28029, Madrid, Spain.<br>
-<sup>6</sup>	Cell Cycle & Cancer Biomarkers Group, “Alberto Sols” Biomedical Research Institute (IIBM-CSIC), Arturo Duperier 4, Madrid, Spain.<br>
-<sup>7</sup>	UMR7355 INEM, Experimental and Molecular Immunology and Neurogenetics CNRS & Université d’Orleans, Orleans, France. <br>
-<sup>8</sup>	Department of Veterinary Medicine, University of Cambridge, Cambridge CB3 0ES, UK.<br>
-<sup>9</sup>	Université de Paris, PARCC, INSERM, Paris, France.<br>
+Marta Baldrighi<sup>1\# </sup>, Christian Doreth<sup>1\# </sup>, Yang Li<sup>2\# </sup>, Xiaohui Zhao<sup>1 </sup>, Hannah Chenoweth<sup>1 </sup>, Kamal Kishore<sup>3 </sup>, Yagnesh Umrania<sup>4 </sup>, David-Paul Minde<sup>3 </sup>, Sarah Thome<sup>1 </sup>, Xian Yu<sup>1 </sup>, Yuning Lu<sup>1 </sup>, Alice Knapton<sup>1 </sup>, James Harrison<sup>1 </sup>, Murray Clarke<sup>1 </sup>, Eicke Latz<sup>5 </sup>, Guillermo de Carcer<sup>6,7 </sup>, Marcos Malumbres<sup>6 </sup>, Bernhard Ryffel<sup>8 </sup>, Clare Bryant<sup>9 </sup>, Jinping Liu<sup>2 </sup>, Kathryn Lilley<sup>3 </sup>, Ziad Mallat<sup>1,10 </sup>, Xuan Li<sup>1\* </sup> <br>
+<sup>1</sup>	The Victor Phillip Dahdaleh Heart and Lung Research Institute, Department of Medicine, University of Cambridge, Cambridge, UK.<br> 
+<sup>2</sup>	Department of Cardiovascular Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China.
+<sup>3</sup>	Cancer Research UK Cambridge Centre, University of Cambridge, Cambridge, UK.<br>
+<sup>4</sup>	Department of Biochemistry, Cambridge Centre for Proteomics, University of Cambridge, Cambridge, UK. <br>
+<sup>5</sup>	Institute of Innate Immunity, University Hospital, University of Bonn, Bonn, Germany.<br>
+<sup>6</sup>	Cell Division and Cancer Group, Spanish National Cancer Research Centre (CNIO), Melchor Fernández Almagro 3, E-28029, Madrid, Spain.<br>
+<sup>7</sup>	Cell Cycle & Cancer Biomarkers Group, “Alberto Sols” Biomedical Research Institute (IIBM-CSIC), Arturo Duperier 4, Madrid, Spain.<br>
+<sup>8</sup>	UMR7355 INEM, Experimental and Molecular Immunology and Neurogenetics CNRS & Université d’Orleans, Orleans, France. <br>
+<sup>9</sup>	Department of Veterinary Medicine, University of Cambridge, Cambridge CB3 0ES, UK.<br>
+<sup>10</sup>	Université de Paris, PARCC, INSERM, Paris, France.<br>
 
 ♯  equal contribution  <br>
-\* Correspondence should be addressed to Xuan Li (xl315@cam.ac.uk)
+\* Correspondence should be addressed to Xuan Li (xl315@cam.ac.uk)The 26 Victor Phillip Dahdaleh Heart and Lung Research Institute, University of Cambridge, Papworth Road, Cambridge, UK, CB2 0BB. Tel: 0044-(0)1223-746725. Email: XL315@cam.ac.uk
 
 
 ## Abstract
 
-Unabated activation of NLRP3 inflammasome activation is linked with the pathogenesis of various inflammatory disorders. PLK1 has been widely studied for its role in mitosis. Here, employing both pharmacological and genetic approaches, we demonstrate that PLK1 promotes NLRP3 inflammasome activation at cell interphase. Using an unbiased Bio-ID screen for PLK1 interactome in macrophages, we show an enhanced proximal association of NLRP3 with PLK1 upon NLRP3 inflammasome activation. We further confirm a direct interaction between PLK1 and NLRP3 and identify the interacting domains. Mechanistically, we show that PLK1 orchestrates microtubule organizing center (MTOC) structure and NLRP3 subcellular positioning upon inflammasome activation. Treatment with a selective PLK1 kinase inhibitor suppresses IL-1 production in in-vivo inflammatory models, including lipopolysaccharide-induced endotoxemia and monosodium urate-induced peritonitis in mice. Our results uncover an unprecedented role of PLK1 in regulating NLRP3 inflammasome activation during interphase, and identify pharmacological inhibition of PLK1 as a potential therapeutic strategy for inflammatory diseases with excessive NLRP3 inflammasome activation.
+Unabated activation of NLRP3 inflammasome activation is linked with the pathogenesis of
+various inflammatory disorders. PLK1 has been widely studied for its role in mitosis. Here,
+employing both pharmacological and genetic approaches, we demonstrate that PLK1 promotes
+NLRP3 inflammasome activation at cell interphase. Using an unbiased Bio-ID screen for PLK1
+interactome in macrophages, we show an enhanced proximal association of NLRP3 with PLK1
+upon NLRP3 inflammasome activation. We further confirm the interaction between PLK1 and
+NLRP3, and identify the interacting domains. Mechanistically, we show that PLK1 orchestrates
+microtubule organizing center (MTOC) structure and NLRP3 subcellular positioning upon
+inflammasome activation. Treatment with a selective PLK1 kinase inhibitor suppresses IL-1b
+production in in-vivo inflammatory models, including lipopolysaccharide-induced
+endotoxemia and monosodium urate-induced peritonitis in mice. Our results uncover an
+unprecedented role of PLK1 in regulating NLRP3 inflammasome activation during interphase,
+and identify pharmacological inhibition of PLK1 as a potential therapeutic strategy for
+inflammatory diseases with excessive NLRP3 inflammasome activation.
+
 
 ## SampleTable
 SampleName      |   Condition          |
