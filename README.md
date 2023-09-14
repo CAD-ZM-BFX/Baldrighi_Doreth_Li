@@ -1,5 +1,5 @@
-# PLK1 promotes NLRP3 inflammasome activation through reinforcing microtubule organizing center
-Marta Baldrighi<sup>1\# </sup>, Christian Doreth<sup>1\# </sup>, Yang Li<sup>2\# </sup>, Xiaohui Zhao<sup>1 </sup>, Emily Warner<sup>1 </sup>, Hannah Chenoweth<sup>1 </sup>, Kamal Kishore<sup>3 </sup>, Yagnesh Umrania<sup>4 </sup>, David-Paul Minde<sup>3 </sup>, Sarah Thome<sup>1 </sup>, Xian Yu<sup>1 </sup>, Yuning Lu<sup>1 </sup>, Alice Knapton<sup>1 </sup>, James Harrison<sup>1 </sup>, Murray Clarke<sup>1 </sup>, Eicke Latz<sup>5 </sup>, Guillermo de Carcer<sup>6,7 </sup>, Marcos Malumbres<sup>6 </sup>, Bernhard Ryffel<sup>8 </sup>, Clare Bryant<sup>9 </sup>, Jinping Liu<sup>2 </sup>, Kathryn Lilley<sup>3 </sup>, Ziad Mallat<sup>1,10 </sup>, Xuan Li<sup>1\* </sup> <br>
+# PLK1 inhibition dampens NLRP3 inflammasome-elicited response in inflammatory disease models
+Marta Baldrighi<sup>1\# </sup>, Christian Doreth<sup>1\# </sup>, Yang Li<sup>2\# </sup>, Xiaohui Zhao<sup>1 </sup>, Emily Warner<sup>1 </sup>, Hannah Chenoweth<sup>1 </sup>, Kamal Kishore<sup>3 </sup>, Yagnesh Umrania<sup>4 </sup>, David-Paul Minde<sup>4 </sup>, Sarah Thome<sup>1 </sup>, Xian Yu<sup>1 </sup>, Yuning Lu<sup>1 </sup>, Alice Knapton<sup>1 </sup>, James Harrison<sup>1 </sup>, Murray Clarke<sup>1 </sup>, Eicke Latz<sup>5 </sup>, Guillermo de Carcer<sup>6,7 </sup>, Marcos Malumbres<sup>6 </sup>, Bernhard Ryffel<sup>8 </sup>, Clare Bryant<sup>9 </sup>, Jinping Liu<sup>2 </sup>, Kathryn S.Lilley<sup>3 </sup>, Ziad Mallat<sup>1,10 </sup>, Xuan Li<sup>1\* </sup> <br>
 <sup>1</sup>	The Victor Phillip Dahdaleh Heart and Lung Research Institute, Department of Medicine, University of Cambridge, Cambridge, UK.<br>
 <sup>2</sup>	Department of Cardiovascular Surgery, Zhongnan Hospital of Wuhan University, Wuhan, China.
 <sup>3</sup>	Cancer Research UK Cambridge Centre, University of Cambridge, Cambridge, UK.<br>
@@ -10,9 +10,9 @@ Marta Baldrighi<sup>1\# </sup>, Christian Doreth<sup>1\# </sup>, Yang Li<sup>2\#
 <sup>8</sup>	UMR7355 INEM, Experimental and Molecular Immunology and Neurogenetics CNRS & Université d’Orleans, Orleans, France. <br>
 <sup>9</sup>	Department of Veterinary Medicine, University of Cambridge, Cambridge CB3 0ES, UK.<br>
 <sup>10</sup>	Université de Paris, PARCC, INSERM, Paris, France.<br>
-
-♯  equal contribution  <br>
-\* Correspondence should be addressed to Xuan Li (xl315@cam.ac.uk)The Victor Phillip Dahdaleh Heart and Lung Research Institute, University of Cambridge, Papworth Road, Cambridge, UK, CB2 0BB. Tel: 0044-(0)1223-746725. Email: xl315@cam.ac.uk
+  
+♯  co-first author  <br>
+\* Correspondence should be addressed to DR Xuan Li, The Victor Phillip Dahdaleh Heart and Lung Research Institute, University of Cambridge, Papworth Road, Cambridge, UK, CB2 0BB. Tel: 0044-(0)1223-746725. Email: xl315@cam.ac.uk
 
 DOI of Github :: [![DOI](https://zenodo.org/badge/474086931.svg)](https://zenodo.org/badge/latestdoi/474086931)
 ## Abstract
